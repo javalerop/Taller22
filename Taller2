@@ -1,0 +1,13 @@
+Taller 2 de programacion orienta a objetos.
+
+El siguiente taller esta trabajado en  processing, con la base del taller 1, llamado juegos eulerianos. El taller consta de 3 clases, class linea, class nodo, class grafo.
+
+Problemas:
+
+El juego contiene los siguientes problemas.
+
+1. Como consta de 2 niveles, en cierta forma el juego se corta, porque para pasar al siguiente nivel toca volver
+al codigo, lo que interumpe el juego.
+
+2. El juego esta reglamentado como el mayor numero de lineas, si el jugador exede cierta cantidad de lineas, el jugador habra perdido.
+Si el jugador cumple con el reglamento gana, y puede volver a reiniciar. El problema es que no aparece el texto de perdio, algun condicional esta mal.
